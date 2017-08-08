@@ -1,0 +1,7 @@
+#Tue Aug 08 19:25:30 CEST 2017
+base.0=/home/harsin/AndroidStudioProjects/TestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_aff67b6f4d1e39a613d762dc57c6878df97eece4
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/harsin/AndroidStudioProjects/TestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e2df620ee0f47b7f89704158c96decc3b91397cf/classes.dex
+base.1=/home/harsin/AndroidStudioProjects/TestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e2df620ee0f47b7f89704158c96decc3b91397cf
+file.0=/home/harsin/AndroidStudioProjects/TestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_aff67b6f4d1e39a613d762dc57c6878df97eece4/classes.dex
